@@ -7,8 +7,8 @@
 <?import javafx.scene.layout.*?>
 
 <AnchorPane xmlns="http://javafx.com/javafx"
+            style="-fx-background-color:blue"
             xmlns:fx="http://javafx.com/fxml"
-            fx:controller="com.example.oop1.Shape"
             prefHeight="400.0" prefWidth="600.0">
 
 </AnchorPane>
